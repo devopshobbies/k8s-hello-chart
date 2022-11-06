@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   k8s-hello:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-11-06T21:34:56.555815846+03:00"
+    appVersion: latest
+    created: "2022-11-06T21:41:40.362479014+03:00"
     description: A Helm chart for Kubernetes
-    digest: ab44a8cec7602ad5171d7967e8e6f4a638cd331c32166e88fd8df51df50aad69
+    digest: f5401c9d9bb9a61f38b7a326707cb863dfed56e0f61b3615919d535689c66f0b
     name: k8s-hello
     type: application
     urls:
-    - https://devopshobbies.github.io/k8s-hello-chart/k8s-hello-0.1.0.tgz
-    version: 0.1.0
-generated: "2022-11-06T21:34:56.555196179+03:00"
+    - https://devopshobbies.github.io/k8s-hello-chart/k8s-hello-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-11-06T21:41:40.361577536+03:00"
